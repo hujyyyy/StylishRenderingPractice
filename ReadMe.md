@@ -16,7 +16,7 @@ This is a project using processing together with GLSL to achieve a simple cartoo
 
 
 # Acknowledgements
-Here are the blogs and paper that this project referred from:
+Here are the blogs and paper that this project referred to:
 
 1. https://roystan.net/articles/toon-shader.html
 2. https://medium.com/@joshmarinacci/cartoon-outline-effect-6c4e95545537
