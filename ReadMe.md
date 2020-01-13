@@ -1,4 +1,4 @@
-# A practice of stylish(cartoon) rendering
+# A Practice of Stylish(cartoon) Rendering
 This is a project using processing together with GLSL to achieve a simple cartoonish rendering effect. The rendering result has rim light and black outlines.
 
 # Interaction Guide
@@ -11,7 +11,8 @@ This is a project using processing together with GLSL to achieve a simple cartoo
 # Build Instruction
 * Install Processing to run the program
 
-# Demo Video
+# Demo
+![alt-text](gif/demo.gif)
 
 
 # Acknowledgements
