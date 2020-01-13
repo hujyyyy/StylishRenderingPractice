@@ -11,8 +11,12 @@ This is a project using processing together with GLSL to achieve a simple cartoo
 # Build Instruction
 * Install Processing to run the program
 
+# Demo Video
+
+
 # Acknowledgements
 Here are the blogs and paper that this project referred from:
-1.https://roystan.net/articles/toon-shader.html
-2.https://medium.com/@joshmarinacci/cartoon-outline-effect-6c4e95545537
-3.[Lake, Adam J et al. “Stylized rendering techniques for scalable real-time 3D animation.” NPAR '00 (2000).](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.130.4224&rep=rep1&type=pdf)
+
+1. https://roystan.net/articles/toon-shader.html
+2. https://medium.com/@joshmarinacci/cartoon-outline-effect-6c4e95545537
+3. [Lake, Adam J et al. “Stylized rendering techniques for scalable real-time 3D animation.” NPAR '00 (2000).](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.130.4224&rep=rep1&type=pdf)
